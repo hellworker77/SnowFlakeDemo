@@ -1,0 +1,16 @@
+body {
+    min-height: 100vh;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+    display: flex;
+
+    background: red;
+}
+
+#canvas {
+    margin: auto;
+    width: 80%;
+    height: 80%;
+    border: 1px solid black;
+}

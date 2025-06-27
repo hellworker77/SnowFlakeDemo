@@ -2,15 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <title>SnowFlake Demo</title>
   <link type="text/css" rel="stylesheet" href="index.css">
-  <script src="bundle.obf.js"></script>
+  <script src="./bundle.obf.js" type="module"></script>
 <body>
-<canvas id="canvas">
-  Not supported
-</canvas>
 
-<script src="index.mjs">
+<div id="app">
+  <canvas id="canvas">
+    Not supported
+  </canvas>
+
+  <div id="debugOverlay">
+  </div>
+
+  <div id="consoleOverlay">
+    consoleOverlay
+  </div>
+</div>
+
+<script src="index.mjs" type="module">
 </script>
 </body>
 </html>

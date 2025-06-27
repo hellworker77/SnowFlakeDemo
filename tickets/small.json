@@ -1,0 +1,7532 @@
+[
+    {
+        "ticket_id": "b16ec59d6497a9a1cb802acc6134b320",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5b1366777b4fbec9b232427bab6abe7a",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5a6b208fdbb4d6083aee0a0580c9e148",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "9a91a63855bbaf54337c7691f1d6203e",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "378a2c0eea8dfe53094f9c66e5db6496",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1400
+    },
+    {
+        "ticket_id": "ee2039f65364b7a576be7b60634fe59b",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "20",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5054777f61f3eacde94d3a324f2d5cd3",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "21",
+        "price": 1400
+    },
+    {
+        "ticket_id": "2972152c8aeacd7c9f39413a13708971",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "12",
+        "price": 1400
+    },
+    {
+        "ticket_id": "6587c2776d6e4747d361ec6ff372e369",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "22",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e368b488b5fd445a21067ccab9bf6809",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "13",
+        "price": 1400
+    },
+    {
+        "ticket_id": "8a3dd81b24c4dbbeed7366f01f11164d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "23",
+        "price": 1400
+    },
+    {
+        "ticket_id": "54a5d2bb33a0b44f64167da24f144ac5",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "26",
+        "price": 1400
+    },
+    {
+        "ticket_id": "28f391375fcc1c4116a1cab6129b5747",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "27",
+        "price": 1400
+    },
+    {
+        "ticket_id": "449a1161bb2be140edd5299f11592e2d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "17",
+        "price": 1400
+    },
+    {
+        "ticket_id": "4ec88b8f72e8287d0344f49c32d86eb8",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "28",
+        "price": 1400
+    },
+    {
+        "ticket_id": "7d715236bef0c13826b4627fb8b86ee5",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5ab2ef39ecbf16d5dc3c3915def95e46",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "29",
+        "price": 1400
+    },
+    {
+        "ticket_id": "8d0ed73dc3af0ed5024de83e8657c3e4",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "c28493f44ca7fa785ead66d35d6d73bd",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "94f049da3986a4ac5eee75fe7c4a04ca",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "f0c2694e0ef5c56dfb41b048bd8b9753",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "30",
+        "price": 1400
+    },
+    {
+        "ticket_id": "1e7c370f72b9459024f5132fe158e995",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "11",
+        "price": 1400
+    },
+    {
+        "ticket_id": "6bf91e2149cfcc305e73a0390093cdaa",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "21",
+        "price": 1400
+    },
+    {
+        "ticket_id": "ca152ff00946834329a0e67c34df9cd0",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "12",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e87bd314abfdedd87b44868c67272e1d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "22",
+        "price": 1400
+    },
+    {
+        "ticket_id": "9004b2999ce9b97e88575a6ac090b106",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "23",
+        "price": 1400
+    },
+    {
+        "ticket_id": "b9ac7cb5b5a037398aa1b634c459421c",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "13",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e224297879dc04ee1eb3ac4d794c9b30",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": 1400
+    },
+    {
+        "ticket_id": "18cd1b7fc15a3c19a88dded91c3dd2ad",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "15",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5b75bbfeed0096ab4471bf7a49582b7a",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "26",
+        "price": 1400
+    },
+    {
+        "ticket_id": "47350ee0d3801ec5c5a54acde2413c61",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "16",
+        "price": 1400
+    },
+    {
+        "ticket_id": "bea2d41aeb9b66da3f57a35d86c54b12",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "17",
+        "price": 1400
+    },
+    {
+        "ticket_id": "8eaafb1f13d62b61c59fb0ef6d4087f3",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "27",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e7c3ba04655e3a0cae1e0cc2fa320ef1",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "18",
+        "price": 1400
+    },
+    {
+        "ticket_id": "cde95429005de70872d50aa7275ba010",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "28",
+        "price": 1400
+    },
+    {
+        "ticket_id": "0880a317c28fc2dbb0cec7429a2e4fd4",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "19",
+        "price": 1400
+    },
+    {
+        "ticket_id": "eb78b5db4c5a84ce844c5fdf5859cbb7",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "29",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e446698ec0f5c5ddbb13c6843df76246",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5dbc72e964bcfc739be2ae6046167550",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "6173b3a7be2be81c530121b3b7c8b5f6",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "6a16f104abbd0eec768737156439aa7d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "4",
+        "price": 1400
+    },
+    {
+        "ticket_id": "1d9012f3ab368ae422716efc0de08bea",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "22",
+        "price": 1400
+    },
+    {
+        "ticket_id": "55e9bfa1844166b83722ecdcfbe2d11f",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "23",
+        "price": 1400
+    },
+    {
+        "ticket_id": "f3bf7968b8aab760d12ff3bd1d65245b",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "24",
+        "price": 1400
+    },
+    {
+        "ticket_id": "844ca602af452c139e74e3b3dbd7233d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "25",
+        "price": 1400
+    },
+    {
+        "ticket_id": "7a2449fa47ede7f8b4edc1c022762a78",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "26",
+        "price": 1400
+    },
+    {
+        "ticket_id": "61d2220d123eed18f8c190ec8a046665",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "27",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e5e2382c3fdb527401f7d4ae243d4845",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "28",
+        "price": 1400
+    },
+    {
+        "ticket_id": "4f1335736a51182f64b646238de2894d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "29",
+        "price": 1400
+    },
+    {
+        "ticket_id": "9981252c8a5374d3feb7e9018a1fbbee",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "30",
+        "price": 1400
+    },
+    {
+        "ticket_id": "974cde5f4161744de48d401503856d3f",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "31",
+        "price": 1400
+    },
+    {
+        "ticket_id": "eeec6a189939c5591cdbb46bbf3644bd",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "a7ca5f25ee482cb68d5f3b352796e117",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "c9e1440772be76d663c55bcff9e49789",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "2db0473688dee568a4e6ec047b54d18b",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "10",
+        "price": 1400
+    },
+    {
+        "ticket_id": "973f24a73fe4af72f86d39368bc05f85",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "11",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e038e90d3ac49886ea6e96a00fb8f603",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "12",
+        "price": 1400
+    },
+    {
+        "ticket_id": "173b988852b35a54ddb6d0c4d110056b",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "13",
+        "price": 1400
+    },
+    {
+        "ticket_id": "747af43ee8efb1a69b20b34c35a1f37d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "14",
+        "price": 1400
+    },
+    {
+        "ticket_id": "5cc4fa2f229c033555cdd1961f16048f",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "15",
+        "price": 1400
+    },
+    {
+        "ticket_id": "2da6875b3df81e6d636259dce1c4762c",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "16",
+        "price": 1400
+    },
+    {
+        "ticket_id": "74c31eced8b71bca205d4ef4c86b702d",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": 1400
+    },
+    {
+        "ticket_id": "864751b69a4f8d37f9d8fa1e15754b06",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": 1400
+    },
+    {
+        "ticket_id": "3e9051159dbd6ff61229f3ac7c7529f6",
+        "site": 2,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "19",
+        "price": 1400
+    },
+    {
+        "ticket_id": "ff55d4fc145ccb8a2720f203072b8c13",
+        "site": 2,
+        "section": "���� ��������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "4507f8a355287daf473414618bb636ca",
+        "site": 2,
+        "section": "���� ��������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "3039c6253fdc84a16a8bc601b8714a14",
+        "site": 2,
+        "section": "���� ��������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "7074c512247a60b7bd6ef84b26af8a36",
+        "site": 2,
+        "section": "���� ��������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 1400
+    },
+    {
+        "ticket_id": "6d0109bca076af5f8b5db0465ed3f4fa",
+        "site": 2,
+        "section": "���� ��������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1400
+    },
+    {
+        "ticket_id": "f1d583ae79e18df74ec5563e6ca1448d",
+        "site": 2,
+        "section": "���� ��������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "2d209e7154aa5207e08abcccb936db86",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "13",
+        "place": "12",
+        "price": 1900
+    },
+    {
+        "ticket_id": "bd40cd7df7f8b0bb968d7bec8b4dbe35",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": 1900
+    },
+    {
+        "ticket_id": "963d36fe91c1a4957c9683fc82f1efce",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "19",
+        "price": 1900
+    },
+    {
+        "ticket_id": "926a1ce1c411e2ff484dea7ff362535a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "13",
+        "place": "9",
+        "price": 1900
+    },
+    {
+        "ticket_id": "d49fb1a9a4ed85b71758bdfe8738e5c8",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "13",
+        "place": "20",
+        "price": 1900
+    },
+    {
+        "ticket_id": "3045e0c98a5e8188397cb0388aa634fa",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "12",
+        "price": 1900
+    },
+    {
+        "ticket_id": "0789f3b1e666014248910ff3c94bff54",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": 1900
+    },
+    {
+        "ticket_id": "0121824a3a23b2bfd015a0ba14427905",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "13",
+        "price": 1900
+    },
+    {
+        "ticket_id": "a906e201c289bf811d7458ffa0d1598c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": 1900
+    },
+    {
+        "ticket_id": "6c35e17d6eb7d87b4c709e3ef1173250",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "14",
+        "price": 1900
+    },
+    {
+        "ticket_id": "08b5f6abcb6610d529e55142bea352e4",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "17",
+        "price": 1900
+    },
+    {
+        "ticket_id": "0c29265bea991816ccf2f27183a4f90c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "18",
+        "price": 1900
+    },
+    {
+        "ticket_id": "b4d9f06e234200da2318c0e7b186018f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "9",
+        "price": 1900
+    },
+    {
+        "ticket_id": "6db4a638d2c48310a5cad9874c385573",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "1",
+        "price": 1900
+    },
+    {
+        "ticket_id": "f8b737929a201d1fd9b55446e89453c0",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": 2100
+    },
+    {
+        "ticket_id": "788e6f27bd82d4726387e7a2df3b10e2",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "2",
+        "price": 1900
+    },
+    {
+        "ticket_id": "31c5ee2962a62e47747927467d0c3bac",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "3",
+        "price": 1900
+    },
+    {
+        "ticket_id": "954f01bb28c71cdccfb638ffdc899130",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "bf02bdd8133e9504bc84a5b0357d7dfd",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e6926a7b59e0bbdeecc606a27bbd636e",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e39f0f6cd7fd06f87bc63556316ccdd1",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "12",
+        "price": 1900
+    },
+    {
+        "ticket_id": "140d1425d518a3b4cc44f9d68208cbb6",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "6c8854b34eb136724ea05b489b5bfa74",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "13",
+        "price": 1900
+    },
+    {
+        "ticket_id": "67f558015ea8e311fb4ab3a0ed8fe64c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "2c2d1435277c9fbf94fed36b3ca3e6b3",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "1e223ae9553a02dfcc9e259bac63620e",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "13",
+        "price": 2100
+    },
+    {
+        "ticket_id": "8938e4a19d9bd49bdfbbc4668954b4bd",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "14",
+        "price": 2100
+    },
+    {
+        "ticket_id": "cd2ba331f74b25039889d911a251d548",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "15",
+        "price": 2100
+    },
+    {
+        "ticket_id": "473f81ec1e27e5d54480b05e95c2316e",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "16",
+        "price": 2100
+    },
+    {
+        "ticket_id": "75b60cfbb5fa5140a2d778afa21a6625",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "421ba0857bcc0efdf07f6ecd059d2b26",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "8627d78993878ba013e19ce2fc81ac69",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "7",
+        "price": 1900
+    },
+    {
+        "ticket_id": "9f97699a4f44c7dddda7080145d095ce",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "13a05faae78449ec83df9cbe76f3de58",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "8",
+        "price": 1900
+    },
+    {
+        "ticket_id": "c8ed173ed8bbf584defc05ad2ac9f693",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "9",
+        "price": 1900
+    },
+    {
+        "ticket_id": "79cecae9dee899d49db4bc3c7498abce",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "13d0bb28509e94fd64aea9deb3ce7469",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "97c705524d5808744d32fbf48962aba6",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4a0eda516ff2f1be44a07ac5263b7658",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "efd6bb235f01fcdf54d4a5b5efd70664",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "982b3991a306eb453bbf07ef1816b478",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "068962f1025967ab2af24cf70c6ce00d",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "26602b3b69e12111dfc1e5034a4413fc",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "3",
+        "price": 2100
+    },
+    {
+        "ticket_id": "2e953315ca8c5c245dcd62d2cd03e485",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "4",
+        "price": 2100
+    },
+    {
+        "ticket_id": "f9d6cb7e6a72e454bd4a21bd87812076",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "6fd3a81fe688d9c1007fa779a9a570d4",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "c084d670599c46373c1a2753c3b6a590",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "b8f6a4ade5d24adfcb9de507e24e0a38",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "dba8f9bd582671c2ff1ed847bd4353e1",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "312a142adef89824a495b5081608bcf3",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "87cce126db854acf5cff7170cb07d096",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "3",
+        "price": 2100
+    },
+    {
+        "ticket_id": "729ead3b39a1f49a454a510dfe0cd9aa",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "4",
+        "price": 2100
+    },
+    {
+        "ticket_id": "499a7d3263fb076f75077350c308d5c4",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "5",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4b61205c25941187eca1c32b89bfe8ed",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "6",
+        "price": 2100
+    },
+    {
+        "ticket_id": "57754224a9fa5ceec7e8d5d8e0c6b16a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "bd1b985fe22b63fe9b63b0d7c39fd707",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "a81c2102fe5dd3e04f67e10c03faa3a8",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "13",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4e9ddbdce2987b773cf2cf73a29dd641",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "16",
+        "price": 2100
+    },
+    {
+        "ticket_id": "30f280234941789799265ea683c76e0f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "f9001f211521d083da1ee677527d729f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "6d16f17920d8d4830e2da76e128f33cd",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "0cb5faac4f387c937ae436f6e6fecf1f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4f4e72fddc321754c9711901b43f855c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "06ecf79e65ae73915bccf0b814082ee0",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "3",
+        "price": 2100
+    },
+    {
+        "ticket_id": "80c50c3b66c6426280ce7ae6d55514c9",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "4",
+        "price": 2100
+    },
+    {
+        "ticket_id": "88a2eee3f0bc35ae6f66215498c94b63",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "5",
+        "price": 2100
+    },
+    {
+        "ticket_id": "979297eca80d235a1e896ce4d27faf5c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "6",
+        "price": 2100
+    },
+    {
+        "ticket_id": "5f6de0c784a3cf90dbbf696d31e6bf75",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "7",
+        "price": 2100
+    },
+    {
+        "ticket_id": "1b4ee95101351f77d6607f421c3b236c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "28a07a1ed81f4a9326349ff10ce7e1f8",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "10",
+        "price": 2100
+    },
+    {
+        "ticket_id": "3c3e5b4a104e8420d6705eb5dc6bc0ff",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "b2440f010fb6d29d1179ce5395cea38c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "13",
+        "price": 2100
+    },
+    {
+        "ticket_id": "3aacbd3239753d5736c22866c50af4db",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "14",
+        "price": 2100
+    },
+    {
+        "ticket_id": "7bf427af7eb6607cefeb09786ff22c57",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "15",
+        "price": 2100
+    },
+    {
+        "ticket_id": "8c65691d3e722d2fe27f84a5a9ee09b2",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "16",
+        "price": 2100
+    },
+    {
+        "ticket_id": "ccbe4ba1fb104d832dca47dc98ac162c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "d848ec63bbc7602f762b149dfb45c214",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "50ad4e08e0aed6411f75ebfae09f8b0c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e62cdc62bc931b3d689b1591a4b1b16a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "dc4488de268f3e2f1bdcc2dc9330f793",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "f2c6f7b82d7db7760a4c1ae721ee179d",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "3",
+        "price": 2100
+    },
+    {
+        "ticket_id": "1bfd5bd4ca918b1d3e27bfc9d0221bae",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "4",
+        "price": 2100
+    },
+    {
+        "ticket_id": "303550045970da68683971ffddbc7df5",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "5",
+        "price": 2100
+    },
+    {
+        "ticket_id": "724044d5f3c34b41224129617218b64a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "6",
+        "price": 2100
+    },
+    {
+        "ticket_id": "566326d32512361102208192b7244a54",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "7",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e6a8a889b733d1bf85632a964110dbfa",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "0d67096ffc3dcd815dd01a4ce698c3e8",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "39631f5e8a9488664369955b1a2457b1",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "10",
+        "price": 2100
+    },
+    {
+        "ticket_id": "d62421963955d04cb852afabe3883da3",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "13",
+        "price": 2100
+    },
+    {
+        "ticket_id": "668eabf7e9d57e2a11f08b17b0a94ba5",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "14",
+        "price": 2100
+    },
+    {
+        "ticket_id": "fb49e07dfefce1810bd9f027d0821eb7",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "15",
+        "price": 2100
+    },
+    {
+        "ticket_id": "ecc438815509cdcd0f4cd1f89eb5791f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "16",
+        "price": 2100
+    },
+    {
+        "ticket_id": "9499127287d26d7a6b43fd1ee7033caf",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "145f8c463c231c786a047b6b15dcc932",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "b4b8814b30686895f88840582ae2b827",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e2a6ea657d572df60cebdb717524d276",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e2d7627bc3323e09d27ca831f65c6fe2",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "d6a2b8df94fc51cd87fb23551820d54c",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "3",
+        "price": 2100
+    },
+    {
+        "ticket_id": "7ee1d1d7b3355cab365fbac75c08fa81",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "4",
+        "price": 2100
+    },
+    {
+        "ticket_id": "ba80e3d8d81af60fae4212b530b99a72",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "5",
+        "price": 2100
+    },
+    {
+        "ticket_id": "86e5dfc2654ce99d2ae977feac24aab5",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "6",
+        "price": 2100
+    },
+    {
+        "ticket_id": "9c3969cb74bb60fafc6a1ecdac0da1d3",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "7",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4e8dbe1aa657020ca1161e93da5b93ac",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "8",
+        "price": 2100
+    },
+    {
+        "ticket_id": "c7dffca5c8a901a2387fdfba3b413937",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "9",
+        "price": 2100
+    },
+    {
+        "ticket_id": "8120a015f277cb7ea79299ac52841e95",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "10",
+        "price": 2100
+    },
+    {
+        "ticket_id": "bdbfdd15b6c65559557b3da0c886e732",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "ccb42c8f4c159091c980888ab695b4d7",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "11",
+        "price": 2100
+    },
+    {
+        "ticket_id": "28aa795888ab1a68c83b21d500b71181",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "cd013594068c795d6f78d631a5eedaa1",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "12",
+        "price": 2100
+    },
+    {
+        "ticket_id": "fbcc0d33b0f110fb4d33365643db8919",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "13",
+        "price": 2100
+    },
+    {
+        "ticket_id": "548680e4cf97c9412f95d7c761dda5c0",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "14",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4975fa76d17a505a8c7df79baa6836ae",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "15",
+        "price": 2100
+    },
+    {
+        "ticket_id": "afe2609d71cd993ad1a23529696e7b5b",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "16",
+        "price": 2100
+    },
+    {
+        "ticket_id": "9dfb95715671e2d1271f026b36e6a24d",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "9fae6b55cb1a7d629f89b7f442f9226f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "18",
+        "price": 2100
+    },
+    {
+        "ticket_id": "614d6eb4d7c3eca33ae6a2f5b38d51ef",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "19",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e23162ddcc0eba2b85472dc426d7378f",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "20c796fc2d6af0a9e783326b641ee133",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "13",
+        "price": 1900
+    },
+    {
+        "ticket_id": "8a3e5dae7e01ea67d2b384fd6e342182",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4e7c50b0a9688465e17dad2d903947f5",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "14",
+        "price": 1900
+    },
+    {
+        "ticket_id": "08130ca16cd7472e5cbbff5af58cc153",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "3",
+        "price": 2100
+    },
+    {
+        "ticket_id": "14011eace4f30155f1c990bad3d065e3",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "4",
+        "price": 2100
+    },
+    {
+        "ticket_id": "5f10b4906e0b8d6cf2a2e2b9510d6437",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "5",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e991d6c209163aca2f03da3f0a9c2fa0",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "6",
+        "price": 2100
+    },
+    {
+        "ticket_id": "9a3418bb1c91b3cb8ea8f6ecec59e288",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "7",
+        "price": 2100
+    },
+    {
+        "ticket_id": "dbedc14c1b5efde6953ac770a21d7848",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "8",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e40c4dc44a26bc479989323bad23c75a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "9",
+        "price": 2100
+    },
+    {
+        "ticket_id": "26151b540c8a0e82b967796a0d921927",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "10",
+        "price": 2100
+    },
+    {
+        "ticket_id": "cc7b2e4fd902cdb927a8a8c0790eb628",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "4dda9754f702f2e87c88e812f037e4b1",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "11",
+        "price": 2100
+    },
+    {
+        "ticket_id": "6e84b3ca5539fe00d6000848da2d12ac",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "d9879d31544e1e912e97940290760b0a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 1900
+    },
+    {
+        "ticket_id": "9e83916a9e8aa89f71e094836fa4cd3e",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "12",
+        "price": 2100
+    },
+    {
+        "ticket_id": "1f70c8e0ce13930e23d677f3b257e9e9",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 1900
+    },
+    {
+        "ticket_id": "53f26d778e59a71a41ed7cd4f2b242c4",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1900
+    },
+    {
+        "ticket_id": "a7512d47f7f0c2e4433f55b22e587da8",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1900
+    },
+    {
+        "ticket_id": "97628fec7362fdb916b12810eed8652e",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "15",
+        "price": 2100
+    },
+    {
+        "ticket_id": "1d0b9cd0332e292f719e028963598caf",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "16",
+        "price": 2100
+    },
+    {
+        "ticket_id": "7a5d81a0ccdd405a931f0f205a835d78",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "17",
+        "price": 2100
+    },
+    {
+        "ticket_id": "585cff8232936940dae30ac2d0057717",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "8",
+        "price": 1900
+    },
+    {
+        "ticket_id": "5f09cd495f1ccf3756ed62f9ba427fbb",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "9",
+        "price": 1900
+    },
+    {
+        "ticket_id": "fae4af3dd504f851e0fe66e8aa9b3966",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "1",
+        "price": 2100
+    },
+    {
+        "ticket_id": "06805c8704f4cc28d3bac2d3a2766e8b",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "2",
+        "price": 2100
+    },
+    {
+        "ticket_id": "0f81680acfaf80511c39818dec058928",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "15",
+        "price": 1900
+    },
+    {
+        "ticket_id": "3e8f9f69c33b0797b5fef418dbb31a29",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "16",
+        "price": 1900
+    },
+    {
+        "ticket_id": "2e40d0a2a24384090c2e01373b582df9",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": 1900
+    },
+    {
+        "ticket_id": "5e218f86a3fe0c129ff449112afecc06",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": 1900
+    },
+    {
+        "ticket_id": "8d807ccd3760643feea727f9c5adcf95",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "7",
+        "price": 2100
+    },
+    {
+        "ticket_id": "38ab7482cdd39941ca312a7f0ecc3706",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "8",
+        "price": 2100
+    },
+    {
+        "ticket_id": "e38e2dcca6f06cd664b2a5d6af7854f4",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "9",
+        "price": 2100
+    },
+    {
+        "ticket_id": "5224bcc0d2b8e390b555afb482ab068b",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "20",
+        "price": 2100
+    },
+    {
+        "ticket_id": "865da6d42a4908e799748c1a3d44f4c6",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "13",
+        "place": "10",
+        "price": 1900
+    },
+    {
+        "ticket_id": "5ebf54727fbec45168a009dacc78818a",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "13",
+        "place": "11",
+        "price": 1900
+    },
+    {
+        "ticket_id": "d3ddb11f8133b264760ab5a16ebe0427",
+        "site": 2,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "21",
+        "price": 2100
+    },
+    {
+        "ticket_id": "7501e742a7e26e3249a4a98cdf9cdb63",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "1",
+        "price": 1600
+    },
+    {
+        "ticket_id": "95cd9b54618928f6a39623e92b778690",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "2",
+        "price": 1600
+    },
+    {
+        "ticket_id": "8d0ecaf74811500fce934ac34fae0e39",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "3",
+        "price": 1600
+    },
+    {
+        "ticket_id": "459f7a177ec93cb3d3bc70eae6f284b1",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "4",
+        "price": 1600
+    },
+    {
+        "ticket_id": "b6d64314a0f0bd0b7676ed47f9d5fe49",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "5c83c0c85dfd3ff597feced775b32c0d",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "8",
+        "price": 1600
+    },
+    {
+        "ticket_id": "17ef137e52ac8381751d6d1d32722e09",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "9",
+        "price": 1600
+    },
+    {
+        "ticket_id": "968abec2427d9ecb665714c8931b9069",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "10",
+        "price": 1600
+    },
+    {
+        "ticket_id": "a9c739125db0355c69c383f8e09c31bf",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "20",
+        "price": 1600
+    },
+    {
+        "ticket_id": "7910ce951adfe975b7cfbbdfe67fb823",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "11",
+        "price": 1600
+    },
+    {
+        "ticket_id": "64804413aa297b08a36ec2f7a385c749",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "21",
+        "price": 1600
+    },
+    {
+        "ticket_id": "56df7be3f9e01a66b4365b0518001933",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "12",
+        "price": 1600
+    },
+    {
+        "ticket_id": "63ad43f81c1232052ec58b6d1abc769e",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "17",
+        "price": 1600
+    },
+    {
+        "ticket_id": "5b5ce65c4860769eedef85567ab4f080",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": 1600
+    },
+    {
+        "ticket_id": "532663a30e91f41345613712b4180f9c",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "19",
+        "price": 1600
+    },
+    {
+        "ticket_id": "369e064398fe0286cda02a7a098545f2",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": 1600
+    },
+    {
+        "ticket_id": "f235341a7968bc92c6b9b3cae077618a",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": 1600
+    },
+    {
+        "ticket_id": "55f1f6501de9298255ddd2db5f6695cf",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "fc7195c4b90853b8fffe28abfafc864d",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "8",
+        "price": 1600
+    },
+    {
+        "ticket_id": "25b52612e599c3ee638867a1962c1cb2",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "9",
+        "price": 1600
+    },
+    {
+        "ticket_id": "3179807497c5a1797e71cfd64014c734",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "10",
+        "price": 1600
+    },
+    {
+        "ticket_id": "d3eadad88159b0406a1c2d290c52315a",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "13",
+        "price": 1600
+    },
+    {
+        "ticket_id": "1b9bb88ba15ada3c3c4f97124efb4871",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": 1600
+    },
+    {
+        "ticket_id": "046ab6be0b9436aa4baf62ddef390bfe",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": 1600
+    },
+    {
+        "ticket_id": "c7bd4a4dff01e1b4b90a210b7715a9f6",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": 1600
+    },
+    {
+        "ticket_id": "30d72f842b1757daa2eab8a9739cbdc7",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "5",
+        "price": 1600
+    },
+    {
+        "ticket_id": "018f8548adab117197fac9d63482deba",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "0f7c656660d2ec08864a6a0e1fdf7b36",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "9776740e42b44d6b44db9537fe4b3804",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "8",
+        "price": 1600
+    },
+    {
+        "ticket_id": "b258bb3373b93d18463e3be2cf606fa3",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "9",
+        "price": 1600
+    },
+    {
+        "ticket_id": "eb037225327d99330aebd1ccedeea5d3",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "12",
+        "price": 1600
+    },
+    {
+        "ticket_id": "60751bc60eb8e178b7b97cea3eda71d5",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "1",
+        "price": 1600
+    },
+    {
+        "ticket_id": "f65d113ada775f734caf3362d295d813",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "2",
+        "price": 1600
+    },
+    {
+        "ticket_id": "4102cdb16decf89c38f4836c91246730",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "7674fd8d76eee35c938738cbda55dcd0",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "8",
+        "price": 1600
+    },
+    {
+        "ticket_id": "931fb76fa77b2bcc161ed711184be7b9",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "9",
+        "price": 1600
+    },
+    {
+        "ticket_id": "e43ac4aff8c9310273fb744bf1486430",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "10",
+        "price": 1600
+    },
+    {
+        "ticket_id": "197db349c016933fad78b5a41e7e15fd",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "11",
+        "price": 1600
+    },
+    {
+        "ticket_id": "296b5d2e7c2995e2e0ee4955edff39f0",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "12",
+        "price": 1600
+    },
+    {
+        "ticket_id": "abdcb607aa209faadb99b3e394192734",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "3",
+        "price": 1600
+    },
+    {
+        "ticket_id": "00b7e2fa183a89d5cb55250dec3ef02c",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "4",
+        "price": 1600
+    },
+    {
+        "ticket_id": "53428888c9530d833f49818250f742ea",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "5",
+        "price": 1600
+    },
+    {
+        "ticket_id": "cbcb245601ef97daf5684aafef986724",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "8",
+        "price": 1600
+    },
+    {
+        "ticket_id": "fdb15e2baf38577bd243c83667514b6c",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "9",
+        "price": 1600
+    },
+    {
+        "ticket_id": "a07193ebabc57b76be076fe6c71638c2",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "10",
+        "price": 1600
+    },
+    {
+        "ticket_id": "03929b119b564bfebfadba83315fbf7e",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "11",
+        "price": 1600
+    },
+    {
+        "ticket_id": "0916cc1597ba1e40bd92f2a42ab3b8de",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "12",
+        "price": 1600
+    },
+    {
+        "ticket_id": "4bb1b6b2bbb05f4f3204b201a177854a",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "13",
+        "price": 1600
+    },
+    {
+        "ticket_id": "1d74d9eb712860966cba18155c40f67b",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "14",
+        "price": 1600
+    },
+    {
+        "ticket_id": "07a10a371a891565f9f71364673343ec",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "15",
+        "price": 1600
+    },
+    {
+        "ticket_id": "726d6fde7e6d596441c3f36aaa6a1912",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "16",
+        "price": 1600
+    },
+    {
+        "ticket_id": "dcb28085620821721d9b86642b06aa9b",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": 1600
+    },
+    {
+        "ticket_id": "15729e0e096bbadf949fe7b435538fea",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": 1600
+    },
+    {
+        "ticket_id": "f8e415db2b37d2b7ea0af6d2c701e16f",
+        "site": 2,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "19",
+        "price": 1600
+    },
+    {
+        "ticket_id": "289c006e1394cd05197baab5f78b0391",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 1600
+    },
+    {
+        "ticket_id": "5f18a7ce42dd4cf844d3c717bbf061b6",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 1600
+    },
+    {
+        "ticket_id": "03b4e5c6bfa50bdd7f38d851eb22a11c",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1600
+    },
+    {
+        "ticket_id": "fcb63939f06b01412692814ba1f3661f",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1600
+    },
+    {
+        "ticket_id": "9123d6478c161b422ad1ead5a2544bb4",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "5a562999c95dbfc185aad3763d88e0e6",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": 1600
+    },
+    {
+        "ticket_id": "c2688234130b32398f16d718d29c1fa8",
+        "site": 2,
+        "section": "���� ������� ������ �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "240a7f86bd7ecc4e5948344926f59945",
+        "site": 2,
+        "section": "���� ��������� ����� �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 1400
+    },
+    {
+        "ticket_id": "34f44efe06e97cdcc112648177935035",
+        "site": 2,
+        "section": "���� ��������� ����� �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "b80158b69c2bc98829fb99d138e1e480",
+        "site": 2,
+        "section": "���� ��������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "976039ce5e60d38108cb8dee2fc63b3c",
+        "site": 2,
+        "section": "���� ��������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "6bb785bfb3b7c923a7aed7d9bafb8acf",
+        "site": 2,
+        "section": "���� ��������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "d8726e24fe0512c749369c9b3849c4fb",
+        "site": 2,
+        "section": "���� ��������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 1400
+    },
+    {
+        "ticket_id": "bf08dd612e65b2e330671fd18aff509e",
+        "site": 2,
+        "section": "���� ��������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1400
+    },
+    {
+        "ticket_id": "3c0a0143a60e283fbe8643df8a85c2e1",
+        "site": 2,
+        "section": "���� ��������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "95570d7787c82111922e44a882ed73b8",
+        "site": 2,
+        "section": "���� ������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "dee1f4c1ed81d77f70ea3240a563924e",
+        "site": 2,
+        "section": "���� ������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": 1600
+    },
+    {
+        "ticket_id": "584907f5af358d999cca28e9a83b2813",
+        "site": 2,
+        "section": "���� ������� ����� �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "bc85fbd0a3c84cd4f5a53dc437a78877",
+        "site": 2,
+        "section": "���� ������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "7c5cd9938083d75de6efee2949c6b932",
+        "site": 2,
+        "section": "���� ������� ������ �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "ac66ef10ef14dc2ffa72684b2003b3f1",
+        "site": 2,
+        "section": "���� ������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1600
+    },
+    {
+        "ticket_id": "bb26ea6ee87ed3af061f5271c95d029d",
+        "site": 2,
+        "section": "���� ������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "ab6bc0c7f121b2513fa6fb56c1e5f9ae",
+        "site": 2,
+        "section": "���� ������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "ce69b226f114cf8ff8ba7e59e9cf5f27",
+        "site": 2,
+        "section": "���� ��������� ����� �1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 1400
+    },
+    {
+        "ticket_id": "614b917d5c6f477a6c89348bdc002869",
+        "site": 2,
+        "section": "���� ��������� ����� �1",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1400
+    },
+    {
+        "ticket_id": "2581c8a638117189cc703d535e566d67",
+        "site": 2,
+        "section": "���� ��������� ����� �1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "a71c21bfaf4ea2a5bf6d65814492c296",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "1",
+        "price": 800
+    },
+    {
+        "ticket_id": "60a5e28e47abab5643435ed8f5e055bf",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "2",
+        "price": 800
+    },
+    {
+        "ticket_id": "6d495a88d68e86d4a36298d09c5ba16a",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "3",
+        "price": 800
+    },
+    {
+        "ticket_id": "f9e2a9b44685dfb05bd8c58032e28cfc",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "4",
+        "price": 800
+    },
+    {
+        "ticket_id": "eae252ec5e0d6c004e5c39a779420ba3",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 800
+    },
+    {
+        "ticket_id": "b7ddaec6904863798335eb7a8b42891b",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 800
+    },
+    {
+        "ticket_id": "e7b3ceb0c632551ae5d73979133aeed9",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 800
+    },
+    {
+        "ticket_id": "7ce88ae31fa7ab529532eb6dc645a459",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "8",
+        "price": 800
+    },
+    {
+        "ticket_id": "17293a2a3cd8ed89f946a21fbdf9ebf9",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "9",
+        "price": 800
+    },
+    {
+        "ticket_id": "3dda2a3159d0d651637ed9aeba113cca",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "20",
+        "price": 800
+    },
+    {
+        "ticket_id": "5b5e4d20b87e4d8c6e38f4d387b7b0b5",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "10",
+        "price": 800
+    },
+    {
+        "ticket_id": "75cb04a2cd72a3865fdd74f13a38f134",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "21",
+        "price": 800
+    },
+    {
+        "ticket_id": "5157b962dfa92cbccdd7cf37536bf2d0",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "11",
+        "price": 800
+    },
+    {
+        "ticket_id": "5ba12ce3f186d2ae1e04a2b8b9417736",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "22",
+        "price": 800
+    },
+    {
+        "ticket_id": "1bdeef337d337e77a4907ebae96c4905",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "12",
+        "price": 800
+    },
+    {
+        "ticket_id": "8bac20ff30c1c98c96e92381261fe264",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "23",
+        "price": 800
+    },
+    {
+        "ticket_id": "47c5a56e452c849faa77e15df24fae90",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "13",
+        "price": 800
+    },
+    {
+        "ticket_id": "43ca6a90700d63df78b8aaf8332a91ed",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "24",
+        "price": 800
+    },
+    {
+        "ticket_id": "dc0966fe2e3b904a771202401651c9f9",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "14",
+        "price": 800
+    },
+    {
+        "ticket_id": "e36964a482e68ff6aec2166cb8291d80",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "25",
+        "price": 800
+    },
+    {
+        "ticket_id": "c2d41caaf3a199531f524c0ec9b00153",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "15",
+        "price": 800
+    },
+    {
+        "ticket_id": "3a8c3b74582dfd624c57f2119fd1c8c8",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "16",
+        "price": 800
+    },
+    {
+        "ticket_id": "6a91c5d8f8d573eca22cae16bbd40646",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "26",
+        "price": 800
+    },
+    {
+        "ticket_id": "68ac8dc13552ab322be2a877911b9d41",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "17",
+        "price": 800
+    },
+    {
+        "ticket_id": "f7fa97849eb13f5c253774f1de66ecd1",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": 800
+    },
+    {
+        "ticket_id": "94895700006b51f9bee37fb8a5b962d8",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "19",
+        "price": 800
+    },
+    {
+        "ticket_id": "bcad78b00b2b4605abfde0828124f14a",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": 800
+    },
+    {
+        "ticket_id": "6f5a794b9e6ce5db95754adee222f472",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": 800
+    },
+    {
+        "ticket_id": "6c3c179885f4bf387704caf247121bd0",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "3",
+        "price": 800
+    },
+    {
+        "ticket_id": "15089422878b4b376a46340c4f9832ea",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "4",
+        "price": 800
+    },
+    {
+        "ticket_id": "eb7d6e2a6a989f5cad46508617f189f8",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "5",
+        "price": 800
+    },
+    {
+        "ticket_id": "afd0c31c7f96a812b88b03a02c1f793f",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "6",
+        "price": 800
+    },
+    {
+        "ticket_id": "963ead5c4bb9dff06e7d7c8ae552ad21",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "7",
+        "price": 800
+    },
+    {
+        "ticket_id": "4996ce062cfe746c07f65f664e7ccc95",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "8",
+        "price": 800
+    },
+    {
+        "ticket_id": "cbeea9364e2fb4f04f1878b974404606",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "9",
+        "price": 800
+    },
+    {
+        "ticket_id": "159872880136256a14870fc6f7ffc11a",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "10",
+        "price": 800
+    },
+    {
+        "ticket_id": "2ae6c6d895575d790822f80a031fdd2f",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "20",
+        "price": 800
+    },
+    {
+        "ticket_id": "4fd78c6962e856c9e0bba7e2d8832940",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "11",
+        "price": 800
+    },
+    {
+        "ticket_id": "aa002e0d312814f924b78a91529d1572",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "21",
+        "price": 800
+    },
+    {
+        "ticket_id": "e726fd813a391ae94547a09498bd2d4e",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "22",
+        "price": 800
+    },
+    {
+        "ticket_id": "2d10ce9f2ad30470dfe663336229d007",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "12",
+        "price": 800
+    },
+    {
+        "ticket_id": "0bef97207121a4567e6be7d26e06eb3e",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "23",
+        "price": 800
+    },
+    {
+        "ticket_id": "b63ab77cc235144678eb4e2e81838aaf",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "13",
+        "price": 800
+    },
+    {
+        "ticket_id": "98de579a36f8d72992337f8716cebe19",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "24",
+        "price": 800
+    },
+    {
+        "ticket_id": "ac70a89abc076d946321a41cb3ef6028",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": 800
+    },
+    {
+        "ticket_id": "3f2c00d3ac632cab1b26a373d6cd708a",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "25",
+        "price": 800
+    },
+    {
+        "ticket_id": "834f7df0c0f6a48ac786cbf9671eee55",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "15",
+        "price": 800
+    },
+    {
+        "ticket_id": "b3ccb18c173084605debe87bb9873952",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "26",
+        "price": 800
+    },
+    {
+        "ticket_id": "c24a9f6f3e7f560c0f4262d8b59dce7c",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "16",
+        "price": 800
+    },
+    {
+        "ticket_id": "d19b57c911de1a3fda9ed9c1ee5ca678",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "17",
+        "price": 800
+    },
+    {
+        "ticket_id": "ed17ce93eb1b9b135180668496140885",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "18",
+        "price": 800
+    },
+    {
+        "ticket_id": "12a10f18bb73096cea8676f7d12152b6",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "19",
+        "price": 800
+    },
+    {
+        "ticket_id": "b588466be2a7f06ed4ba0be9c2a0aff5",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": 800
+    },
+    {
+        "ticket_id": "e92990b0a898da2ff368eea6b0ef41ab",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": 800
+    },
+    {
+        "ticket_id": "e563225b0cae38a96e4f924b2b26b723",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "3",
+        "price": 800
+    },
+    {
+        "ticket_id": "f4c18e01747ff3e7666d3848d886352a",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "4",
+        "price": 800
+    },
+    {
+        "ticket_id": "931c1b4e3a4b6958993b94c83d0b51ef",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "5",
+        "price": 800
+    },
+    {
+        "ticket_id": "074b5f587c388b200c337bea2569cbc7",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "6",
+        "price": 800
+    },
+    {
+        "ticket_id": "702ee1c799c5312f15b2ec8f915881ff",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "7",
+        "price": 800
+    },
+    {
+        "ticket_id": "66e2ac1a597f9a901902314fb06289ce",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "8",
+        "price": 800
+    },
+    {
+        "ticket_id": "c01e74031cec83126117a3d0ffa1a00e",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "9",
+        "price": 800
+    },
+    {
+        "ticket_id": "3ac237a93c7e333dee3505eab4fda773",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "20",
+        "price": 800
+    },
+    {
+        "ticket_id": "df46130b60ed5ec78a6e9e366a237852",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "21",
+        "price": 800
+    },
+    {
+        "ticket_id": "eff86af418331b214a81e509b476b66e",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "22",
+        "price": 800
+    },
+    {
+        "ticket_id": "ebb0d56d0d4792b2294281d4e2784a6c",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "23",
+        "price": 800
+    },
+    {
+        "ticket_id": "31e7613d728b11e9339503cf2e33f107",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "24",
+        "price": 800
+    },
+    {
+        "ticket_id": "c9024705c422096ebd023aacd64998d2",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "25",
+        "price": 800
+    },
+    {
+        "ticket_id": "ae41407cab07e55b74d0433b4274c27f",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "26",
+        "price": 800
+    },
+    {
+        "ticket_id": "4d0ba280e0640a618a5a2815e6e2993b",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "27",
+        "price": 800
+    },
+    {
+        "ticket_id": "076f937dd059650f06c780c24bf0f437",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "28",
+        "price": 800
+    },
+    {
+        "ticket_id": "b7afd9215ba316a7e921bd4eb2aebe57",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 800
+    },
+    {
+        "ticket_id": "04a5d0fdf896f9cc28a93ba43f675233",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 800
+    },
+    {
+        "ticket_id": "af9d97be638416af9f996c6c2dc8b3e9",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 800
+    },
+    {
+        "ticket_id": "11e9fe5f5d30364c02962e5dade4ad29",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 800
+    },
+    {
+        "ticket_id": "fec948ef12088d19af05ae4cb96c9a1d",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": 800
+    },
+    {
+        "ticket_id": "901f2e133311ccac51497c289475bd5d",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "10",
+        "price": 800
+    },
+    {
+        "ticket_id": "63cac5f92e2888de9877bb440cf6e939",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "11",
+        "price": 800
+    },
+    {
+        "ticket_id": "fe3c16058a468ae4490bc5cd73fcc2fd",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "12",
+        "price": 800
+    },
+    {
+        "ticket_id": "0bbd46ace1acf2b40f7062d9a95496e0",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "13",
+        "price": 800
+    },
+    {
+        "ticket_id": "3be2a48b9c8e93dc6719c55935d8d472",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "14",
+        "price": 800
+    },
+    {
+        "ticket_id": "7b91a14c0901d47fafa6caaf9e5d6551",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "24",
+        "price": 800
+    },
+    {
+        "ticket_id": "993b02e8ca2099087d4a65fe7ea8487e",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "25",
+        "price": 800
+    },
+    {
+        "ticket_id": "ce1b5537e1b49b75a6843016ec0a46c2",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "16",
+        "price": 800
+    },
+    {
+        "ticket_id": "ae863acf02ffcb497295a1099ecbd3f6",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "26",
+        "price": 800
+    },
+    {
+        "ticket_id": "2f70c8ba42321590ff0d1e34bf5d4765",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": 800
+    },
+    {
+        "ticket_id": "310a63da204106a02a5e360ab60ec0de",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": 800
+    },
+    {
+        "ticket_id": "09e3410382d1f3f552e1ea3fe90ede96",
+        "site": 2,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "19",
+        "price": 800
+    },
+    {
+        "ticket_id": "955d7958fa0419ae5827e8fe406359c4",
+        "site": 2,
+        "section": "���� ��������� ������ �1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 1400
+    },
+    {
+        "ticket_id": "d0cc1816cb8d83b346a1af915a023a0b",
+        "site": 2,
+        "section": "���� ��������� ������ �1",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1400
+    },
+    {
+        "ticket_id": "01095a112f7672bee4526207eeb424bd",
+        "site": 2,
+        "section": "���� ��������� ������ �1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "0e194c9070a4a94817fe006bb036a9b7",
+        "site": 2,
+        "section": "���� ������� ����� �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "1ab059a4ac1a5e623b3d2fc192d1b9a9",
+        "site": 2,
+        "section": "���� ������� ����� �2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "cf58babd801906be20272915fe42fa8d",
+        "site": 2,
+        "section": "���� ��������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": 1400
+    },
+    {
+        "ticket_id": "ed87a64ab6fe8095a2aa22141edc8d8d",
+        "site": 2,
+        "section": "���� ��������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": 1400
+    },
+    {
+        "ticket_id": "23324ccab26a65a0cb3b8cac6b1500b2",
+        "site": 2,
+        "section": "���� ��������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1400
+    },
+    {
+        "ticket_id": "e848290919620bbf4bc2152326f08506",
+        "site": 2,
+        "section": "���� ��������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": 1400
+    },
+    {
+        "ticket_id": "2bd36fe73fafb85dd2914dc33fd859f6",
+        "site": 2,
+        "section": "���� ��������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1400
+    },
+    {
+        "ticket_id": "b597ab06d8d948b45a3beb59f9bdbc79",
+        "site": 2,
+        "section": "���� ��������� ������ �3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1400
+    },
+    {
+        "ticket_id": "f0f6d8fa7db7801b7e1eab7a8e3c06d6",
+        "site": 2,
+        "section": "���� ������� ����� �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": 1600
+    },
+    {
+        "ticket_id": "cfe43ced0c0a8c52c42ffd7095b26f27",
+        "site": 2,
+        "section": "���� ������� ����� �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": 1600
+    },
+    {
+        "ticket_id": "13fd4b6bceb0ad88ad3d50b9a5592324",
+        "site": 2,
+        "section": "���� ������� ����� �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": 1600
+    },
+    {
+        "ticket_id": "1ae2ccc5e04345cc9497f902750382e4",
+        "site": 2,
+        "section": "���� ������� ����� �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": 1600
+    },
+    {
+        "ticket_id": "c188cc305fbbe66d9bb57048d9e4d888",
+        "site": 2,
+        "section": "���� ������� ����� �4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": 1600
+    },
+    {
+        "ticket_id": "74da456d33338da41690534ad4f50651",
+        "site": 3,
+        "section": "���� ��������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "c3e5bccc942f9ab9a403247e21d6ee1d",
+        "site": 3,
+        "section": "���� ��������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "838eb10fc6866d4c49d29b10fbd7c33d",
+        "site": 3,
+        "section": "���� ��������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "76b1268fd486da33f358909d9749f93d",
+        "site": 3,
+        "section": "���� ��������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "886584cf4ce6cb5dcc40d49d5aec8faa",
+        "site": 3,
+        "section": "���� ��������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "00a9ffdb50ac57a8036ca837c98f32bf",
+        "site": 3,
+        "section": "���� ��������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "8ed1e03a1d5f830d403c510e3381164b",
+        "site": 3,
+        "section": "���� ��������� ������ 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "6e48989af09a1f8b763ec984649ad42f",
+        "site": 3,
+        "section": "���� ��������� ������ 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "cc6b48d62d315ab7a9fe6d3e93187a59",
+        "site": 3,
+        "section": "���� ��������� ������ 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "22179c6fa404349109e4cba2f0103d90",
+        "site": 3,
+        "section": "���� ��������� ������ 1",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "1ed570b38bf0e8819133e7f98d04c0f0",
+        "site": 3,
+        "section": "���� ��������� ������ 1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "509a4b3d7e41c060358b3ea91958c000",
+        "site": 3,
+        "section": "���� ��������� ������ 1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "1dec89db4b86ffd4b419ede6621884fe",
+        "site": 3,
+        "section": "���� ��������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "e54231a1495fb84045267afa498d37cc",
+        "site": 3,
+        "section": "���� ��������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "eac81ac72f6989b45eb5a44bf6a2dc0a",
+        "site": 3,
+        "section": "���� ��������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "f38feed0e53b03dd159ee0379505c040",
+        "site": 3,
+        "section": "���� ��������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "58b08a0de072b99000534b082e7e93cb",
+        "site": 3,
+        "section": "���� ��������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "a8d0c17373836959ee2061f42a85f721",
+        "site": 3,
+        "section": "���� ��������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "61a7fbf4e8fd21330ce908d396def1cc",
+        "site": 3,
+        "section": "���� ��������� ����� 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "a72f4564418bde36c62a1333ba11a0d4",
+        "site": 3,
+        "section": "���� ��������� ����� 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "cb1a6897a1d2848778286e65cda87c18",
+        "site": 3,
+        "section": "���� ��������� ����� 1",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "f6b06ae29c87a21bc47b620af0d5aee2",
+        "site": 3,
+        "section": "���� ��������� ����� 1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "2eb400712270a14a9111a0eb0b205862",
+        "site": 3,
+        "section": "���� ��������� ����� 1",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "9f52ea4fd51ccf0d7b6723cbbe56fa9b",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "9ee2fbfcdf946b2c4a1e3cd8f8ea5dc8",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "0e29eafc0a6e1858770f4303af343587",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "dbe292d4ae3f92a65c00063cb16bce25",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "3de3bb4bc9847c5a83a9eae0c9751a6a",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "48c81e30499c72dcad6c09dd2e06d6a2",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "921a1234ee210b031f5e0390798d327b",
+        "site": 3,
+        "section": "���� ������� ������ 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "8e87c4fba751b97b4878bc2c6d6e2c1a",
+        "site": 3,
+        "section": "���� ������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "fe1547dbe2ccc06957ac95882f17d5ae",
+        "site": 3,
+        "section": "���� ������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "4056eb3ab9e7ff4c1283ca06a2cfa496",
+        "site": 3,
+        "section": "���� ������� ������ 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "25dccf39a05c936509aba731a05bed3e",
+        "site": 3,
+        "section": "���� ������� ������ 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "a0440b7cc1e84b3fc2005e769df499f4",
+        "site": 3,
+        "section": "���� ������� ������ 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "783003533ccef8afc6fd77cbfcdb9c43",
+        "site": 3,
+        "section": "���� ������� ����� 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "c8139230ce487076bfd1acd48b671c1c",
+        "site": 3,
+        "section": "���� ������� ����� 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "4",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "cf6459716790d0c82605f580a94a15c3",
+        "site": 3,
+        "section": "���� ������� ����� 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "f002bf1a25be8a38f84d2b72032dcf80",
+        "site": 3,
+        "section": "���� ������� ����� 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "d2d4d6cc52cc27586a3b6a122ededd1d",
+        "site": 3,
+        "section": "���� ������� ����� 4",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "8847d83175c2e7289debba530d3fe0ab",
+        "site": 3,
+        "section": "���� ������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "5",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "5f2c58aea629584cea78bd05320d8529",
+        "site": 3,
+        "section": "���� ������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "9a151a1e4cd2b3e73e2d12be2a334476",
+        "site": 3,
+        "section": "���� ������� ����� 3",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "dd47a1069d90b01b8f6b614b3b62431c",
+        "site": 3,
+        "section": "���� ������� ����� 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "a64114445ee7f5f61a102c29e6d08e51",
+        "site": 3,
+        "section": "���� ������� ����� 2",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "5feddff26c70cec775671c316e9928ac",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "785ee5a37891e1c82ecfe4793a229004",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "24",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "efcd8b5470d2c6a85e0958e45affcfae",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "25",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "0df0197ac149f8f4e842c06ee1d49c01",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "26",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "e0665e5e1da7158af8b5a43fbbc37738",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "1",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "5121abe9c1b301b358168f2f468677fe",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "2",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b26faeafd3e3c79b8b420e82c99c7653",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "3",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b895dcbf3a933a15a88203c442600476",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "4",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "e730a03eff1264ca739893277aa66033",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "5",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "010f865afdf1fd130b08a34cfdd6044e",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "46f7a5158ca963b3d173554c0f7b3aa9",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "ef56fa595e98c7dbca954e6af2fc1285",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "8",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "d13ad31fe394723a52a3d142722f2f37",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "9",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "ec7aea79110e61f5f4ccb5a42a872e60",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "10",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "419f7734dbc2473d2cedcd7b4948cf8c",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "11",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "465bca913da97f009625e485abff1486",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "12",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "c709585f060962566c7d4d4a43409b95",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "14",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "2a651ff7c08a23ba92b583d7169cdcaa",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "16",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "f2c58b96bd7140858e9b0d9c6f0359e8",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "19",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "ebe54c89a220dc948cdf8fa6e4cf7466",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "20",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "4561b0a23cbff9457b083551b6d44e07",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "21",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "a8bfa5645cb0ad026dbf04abdadb125f",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "22",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "ab9b0ee74d9d5527a0a5af2653c8cfb5",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "23",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "8238481f514cb79b2b28a9642579f7e9",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "24",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "e6f9997818fad04ec4ee3563ee6b657c",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "25",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "6e40e3b687ae62fe2b67bfb96b6512db",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "26",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b1976c5644a8c635425b5ce82d2954e9",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "38b7e44972ce91dcf964d30eccd38e85",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "dad053cf775128428553d1e980ddec0a",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "3",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "2ee2fa857814725798ca5ffe69c78f98",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "4",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "28f5b24f6f7014f33f87df8ed5efe638",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "5",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b4a3a1a581828b56999a76662c9dba49",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "6",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "5c5d8b781e3a548020999bb94083c371",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "7",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "a9028203e9ec7eeb5f6e7f6d26835a16",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "8",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "48571c00e64813f2092ea97fa46c1097",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "9",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "4e436d1a9de5e6bdcb32c11bb5808100",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "14",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "1105eb0c4ae5e0f37f88d343ab05842e",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "15",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "2201835f73dc9fc6ddd0c0b394937176",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "16",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "bee55fc6bd2f43a4978226fb61fdca25",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "17",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b227b7d11466ba652c2f0d350d299875",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "0825531aa4a8793efb34edb8bda2789b",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "19",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "18479245abbd987b31698a45ada84859",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "20",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "c35dfdefd64406448f3ac4460b280247",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "21",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b72237e039c928c306b4a6ade899e4b5",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "22",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "71f1b72070ef36cc2489f9e4a2ac0ae3",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "23",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "7943b139d3c5a56c5369bb270c75e1d7",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "24",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "5907b34185c4fa6fdb273a60d9a9b957",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "25",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "d50ac7fa7d74862f8db33d5f619d6382",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "26",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "3094dbb8353bfdc10cfd6f8eb3dcf719",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "507c9c1bbeff0f0d2ec5c616aae57879",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "580ea39fe1de93c5c19e947c28139668",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "3",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "1e5b3151a3bd0b8eaf7ae3882300c6a0",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "4",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "0aaafc5eb0b9c8fe0628dec151034d80",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "5",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "92d96439368da23331ee0604c3c02ea9",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "6",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "825c24ec4fe8852bc17527995e928232",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "7",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "aea548ce8381f103e1ee6bca2c881919",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "8",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "28c321e6f6ce2693968ac0233a48039f",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "9",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "b97d14868d2a79d7dd43412b520b42d6",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "10",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "7f93a5941c9f437c72bcf81f138f4335",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "11",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "224ef64634367c98c0a8706b7180805b",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "12",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "a6abc982893e0a2cd4e259639cad59b5",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "13",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "37cf3bfd07708e1c5d48e19c9df00d88",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "2deaff399c43280b1caf6e0e97707ab0",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "15",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "af055d39f90f0a5f4571b3e3ee408735",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "16",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "591117f09a28edd9d61d9d3201bd4960",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "17",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "15dbc442c26ef36cbe0550150f56762a",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "18",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "231138b9e44a1d6f86c421c3ee4c5b5a",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "19",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "776ebe0500f0e0d5f2ef04e29883c197",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "20",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "db4e3a385c9c23506da8c02c327e3567",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "21",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "f91d06f0b687a5255f6c86cfcd2e6e14",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "22",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "ee94bb5ede22a36630cd87399d333af9",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "23",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "64f16f53ab1ba79dcd89b57db104b589",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "24",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "3b88f4ccb1e649d95052e9506655efe4",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "25",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "04db9d8c6ca2627ee8c8735c845dea41",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "26",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "17d94bcc390dfc10b2e43be2cc7e35cb",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "27",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "f899dd3e59160118a864f29d8b5e5eb4",
+        "site": 3,
+        "section": "������ 1-�� �����",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "28",
+        "price": "800.0"
+    },
+    {
+        "ticket_id": "ba8e437f6fd0a0ce785ccee3fc629280",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "5e89d8cca66c3c34b82a5421ff80f73d",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "2",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "75cbd93f0ed9c680d3c5b80f59e4d697",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "3",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "6fa3e90e70a2831a24c205e658d0ab8b",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "3",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "88209807914d9c19a64a263efec4eb88",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "6",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "d3a57c5f618456682ec1e12a52568e41",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "f2454f6ebf542603c7944c0dfdda182c",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "10",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "7dcab629101fbbee17e8e77619cef7ce",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "11",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "687d501b91b6121063d14d4fb645344c",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "12",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "074067e2be0e7fdc4165ffe79e8627ef",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "5b53fad711f8796469949398f2412fb9",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "2ac448870e6244a58ad566d9d62a8ae9",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "19",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "14306af4832eaa4a09699e6a0eea2b1f",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "20",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "f701d766105142047f3f55d298b0ea42",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "21",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "70881bb634bbbfa1c1a407bb42506e42",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "22",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "1518ee50c1f52a65d6940800d8484650",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "23",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "7a4d20d42e8fe0545825030e569013f9",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "26",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "fc94eae4476467c4ca9a45d3f865e21d",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "27",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "deaaf3d2650eaa2429e4bb3b8100c276",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "28",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "03314c49db1e50ebfcac39a49223bd70",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "29",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "e5ad87ee42dd946fc9bfa49060d57ad8",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "30",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "0f7d2016695eee9123c010687f2bf231",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "831775d770d4d05b2c898ecec9612730",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "38c8f86546902fccd65159ae57d923cc",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "3",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "44eab6b072417e226f48e8a3d8a5701a",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "12",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "4140c0a2f784b4e7844b1dee545d54e6",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "13",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "2de169030f0cb0b36223936ed0ddd1f0",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "17",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "3b93a3e868e0006d4e7998b5220727ea",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "ae8c47035424c07c948363f2842035d8",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "21",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "29854a0aa7225295b6549a9ad592587a",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "22",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "854b20a2b19ba877eee79c48cdd2262b",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "23",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "8bd449256b06fec492a99621e07f822f",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "26",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "8e93eb0beedf449735680e4a6ef5c117",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "27",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "61f8a3bc3c7ff0f37fc0a015cfb3e910",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "28",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "9e9eeabc7674faeb51b515b32bee1ab2",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "29",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "a274c8b8b0a7e03054ac3cc3de67351a",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "de891f261dd6a12772745df4d2520511",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "bbbfc4553d12671d3d1677e26df82d6d",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "3",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "83763658e103575152c12344b578fea6",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "4",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "cd22717f40ef6b5470f7199569e27bd0",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "11",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "7f6c8fb5bab7fe3c4e1869e077434df3",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "12",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "0dea0be682fc69d94679432519e7554c",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "13",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "c60f6a7db08e4b0c3e1ab9e8f8e10603",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "8a2f3a5f61f14bde3d05291ca6bd8a6d",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "15",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "aef811a90de4f81681d810b6ba020eab",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "16",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "f314ae250dae5d857cfa56f24f9a9faf",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "17",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "0840043b83bed3919891c8d77cdb39e2",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "18",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "a934b79941b2d99a54d4856753b350d2",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "19",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "27f3fc4b791366a8c09e93039f8464ba",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "22",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "bc3b4ae626e539a0fee4fdd612fc1373",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "23",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "c21353539faee4c298d64a48b42117ef",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "24",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "57aca18ad134a009c7d52208ea6b9806",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "25",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "86689caf979f5ad3a3516cd5cdc761b4",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "26",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "5f1a5289960ae4adafb2cde13121a6e7",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "27",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "798facc8befb4ae7eda04ead7296c26e",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "28",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "142edcce220bbfbb86512548f98245c8",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "29",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "2cfc24218a56079c83d6f134993e86bb",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "30",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "f9c1f08a6d3e23d08318c932c0ed1fd1",
+        "site": 3,
+        "section": "��������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "31",
+        "price": "1400.0"
+    },
+    {
+        "ticket_id": "ce615c1ec735b4aeb26d758df3ef740b",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "1",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "1e294e77fbfb9c7f1de6ca51ee40513d",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "2",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "78b004f19f255b46e82c50dad6fbe6b5",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "3",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "3d9fb35602ad4f206f08277ec8d854c0",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "4",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "8dc37ac9da04a505312e88ac7bf1b923",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "eadddbbaf097389d8db144286b84d25c",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "8",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "e5313d53e0aa04c54001ac0ecc496086",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "9",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "bc81b709f5f8505c66401f38b0b77524",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "10",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "f508c97e113421e75871ef4b25544e14",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "11",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "142bffa27ea237275f5be31548ed613c",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "14",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "4d8d47a25100e249465ce3a96c902860",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "15",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "c351d5b999cc8a561a89abc44f752032",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "16",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "1138ec2afb6b887e34b4de64e4829c6b",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "fa7ee18029f8123ad760c0a8955a95c5",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "6985330937cd6a1ff778e978f1e8cbaf",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "19",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "fdb8fba8025e2ac9425e205865b28c3a",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "20",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "26140ddd3927cb2076b4569718f355d8",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "21",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "6ad5e6cc7bbb5bce4ad3a33de0799262",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "39a84a8184cd39a94d626dfe1feff967",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "2289558a8ce65cc7ba54026f80770a41",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "53581114081d66127cc8ef3c1db16738",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "8",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "98e1a01846ca2dd43db6f74890996a19",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "9",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "5de0c2d1b065eda7554345afa7ed5ffa",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "10",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "d4c7328ccc79cdecbaa2e0d019255ebb",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "11",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "36490d1aa2847200c79fb2dfc39d5deb",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "12",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "7094b20114a06573d06427e03e5e5965",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "17",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "c66f88ac3aa5037d0fc0843580e81a40",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "d23ffc98787c09b1b32532b9a5574fcd",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "19",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "3350289732eedd8a5f7e5e2b6f341a62",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "27a7f305d5747aa77c574003bb32f656",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "bd78e2768ad527aaad3945fc3c881760",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "5",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "1a3827e2ffa30426ecf8d0b405ba52d5",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "6",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "a21845e728c9991c42c061e38984704e",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "3ed318ff269fc1a7329172a510e60fb3",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "8",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "002d284e63127130806b049b2a8b3343",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "9",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "2b0b90312415b83734b50640153962ac",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "10",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "2efffbaecc11e8c05df58816ed7fbf9a",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "13",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "004066f4b0eced8cb5f07073c1f9d3e5",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "47ce5731c4c63b46ac5bf72d5d5bad61",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "1",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "07864143a607f794238714bfbe7268c0",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "2",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "24cc7ff39c5bf8cc24063ff5c09e6474",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "7",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "f16632f640ead7389f8aeb0a64ca0c56",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "8",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "4626b4e9b74b230f1171af6847786bd9",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "9",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "d7c060a4474260fc961e0e2cb08e28d5",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "5",
+        "place": "12",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "80f8facc7d7b9f06a438dd45cecb6232",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "3",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "ff40493fd22f6e2a965ad9c701f1158d",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "4",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "fdfece46d4f2c234510a460e0248d6a0",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "5",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "671f992523f459585881ae64bef96f21",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "8",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "3145a12745fed0b09c7c7c0339b13e33",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "9",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "23c50a35ee94aefa036d8ac6b8c6966d",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "10",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "2cc8776a63556e8c057cb3a7de4885c1",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "11",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "104628543bf4f603ce09484d58313b81",
+        "site": 3,
+        "section": "���������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "12",
+        "price": "1600.0"
+    },
+    {
+        "ticket_id": "9bb207d75bd061b875b26e669d4d01b9",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "1",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "ba886777c4b3ef9e5787c07d17e4dff1",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "8",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "ab45d140c7da24427d5db8b3020bf782",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "9",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "fe4a612c4cda561ffbafadb37cd2de3a",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "13",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "337f0254049a134d198d345b6aaa8474",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "1",
+        "place": "14",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "749373506bdeebe9d4d5dcd6150975ca",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "17",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "4e121faad07a9771a3f56ee43e03ae92",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "2",
+        "place": "18",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "30f500c3d9ab5e36d2d61336aef4a473",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "1",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "a8ee6f246fcfd7cb50dd5776410bfaa0",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "2",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "d0e573cb84602a3915b15f6b69152a1d",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "18",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "3f1306d5ea38c1bf6e5dc8f806cf6eb6",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "3",
+        "place": "19",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "6d7edbae4a4e6dec9f5ecabe6658adb5",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "bcf3b2bd89fda0cf6dd179c4ea4a835e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b4e614b8a1b1f7dfdf4492343c22d585",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "14",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ad89510bdafda167c392230664717f6b",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "17",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "545397c2512625f32995693c33099efd",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "18",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ed9ba197209f88e36086b15f38b16981",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "19",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "f187ee4edc8ba01581a59f8c86e305c6",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "4",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "a3177d19cd2d7fbf945f8981957e4d1c",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "a405586594e219a29d1a3ff208378c0c",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "aa15acc83f4de6615a80e31d53615ef6",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "3",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "f25e0c1a72d053694559cd38cc6915fe",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "4",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "dfdbd7d2bb5fd1876d848e587f8520a1",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "19",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b0cb2e202e29e2cb880e36845a3dcecd",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "38c538781328ee227d7db2e8224e4e97",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "6",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "715365ec38c75fda3804386c67f121ad",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "28a396ebb22b1d7b6671afd9c2d456c2",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "83ae5760f1fc63183c6038105f53e9e9",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "3",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "7c0f79802f1961970a89bedd875bc39c",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "4",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "deac530645b15baf05e2aa72c4f0a529",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "4a1f2038f8284dad9fc656d8f8e6f07e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "7",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b3573d115675390f53613d2a965094f9",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "426c6e8381317bebd34ae2df45ba1154",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "8b8ce29ce7c1d211c3072785aa2b8fdd",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "3",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "a53f305203cdb3b9fdb77fc624f8b26c",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "4",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "557be52aaebb616f2d9f8712b50633cb",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "5",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ae683855f32f837b085a7d2838d38258",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "6",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ce9ec90f40621141d8f4e2957381b0bf",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "7",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ee1f7caf9ab02eaeebca3205d90a8608",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "13",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "4b59bea72a0713fea2d0cca29db05791",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "16",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "49ee2ccb527edab1dee2d721e917515b",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "17",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "68fba22c57cc6bf42fed65eacce4cb78",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "18",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "c811fceb295b03e9bcfb8c5a5d330d64",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "19",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b37032160d3acc16986b51833da105e0",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "9d1f69db704d42e031cf4423dadc079e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "8",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "e5c6411b64264abfbcc7ce0a136d1661",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ca318ea4bf31fa1f1b0a1ccf6eb8a40b",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "316182b67ec13a96a60d0e8e81f9e0d1",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "3",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "205e44f395d22a61e9dafdecda142f5e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "10",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "6c39dd4ff9d009a0c76fe58b4f660e9d",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "17",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "e1850d50349b253ca9bc79cf5b39def2",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "18",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "9ac8d493faf25e05890b7a4861ad745f",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "19",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "6c079f0f6336a70a789b8aa7c03ab48e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "e2ef853d6399217e363a004785e6ebea",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "9",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "bc5d59fc1bda142dc183990055c37094",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b6535b4fe18e387e57dbbafd92d8b762",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "1ef61492f7db33a73a8fa31b1fcfeb44",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "3",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "c9ccb721e9c7b2d58c5a0975c99f43a1",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "4",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "355c5ce9af3aaa438ce7f4f11f21453c",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "5",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "c1d72d12e170560f9546f633c0feb18b",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "6",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "e286cf8783d2dd96df14f99ae15e9c75",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "7",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "f3b4580dec982d94822345f3340fb1e1",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "8",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "76f6a5f8c6ddd200e29865b3c64ae2e7",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "9",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "1d06c1e322b55bd7fd9eb3857e4942b7",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "10",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "8bc952207d9ecc9594e58734795b74b4",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "13",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "7c780d1fed62b18dfab23d4dbb147074",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "14",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "87b64fb6dbd7ef1f815fd373667e3263",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "15",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "865ce39ca8c2438acd99136eb49136ec",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "16",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "a738a69c09e8a2ea8054e20cd623958a",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "17",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "987d472eda7714325ebbc2f9fe1e57f3",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "18",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "f63797a5937e0b6f5f1c8599bee62981",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "19",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "7089ccd4b162e92ec4ebe3095d274ca6",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "5756eb8ff21cc1aab097873df73034ce",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "10",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "7b55d27c896b3950999a8677c24d4f93",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "d43834fdf45989f63dce48b6f42a8ef8",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "c30e09c15a1a7349b7291b5dda89a867",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "3",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "245f67c3cf3484a821b5242c16deaa14",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "4",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "71c7e96f53146716730d666f4100f99d",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "5",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "4dc48042dad7f55c295260f604f68374",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "6",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "069e2292fac4d4792415246decc5e292",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "7",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "c9396ff8618114a5020f950b508cbb42",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "8",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "4553f7f66c9597efb55765dca204f5e6",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "9",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "a7bd2a171911d17ac302b6296cb41226",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "10",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b9a8aac2d9acdbdcbfb8a34c73525b9a",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "13",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ac49d9363dd577faeaa3656309c7730e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "14",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "2d26c4d9a50ebc238bc3891ffb3edb29",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "15",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "56bc2ceaa9c60001858ad89f94df2438",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "16",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "60eccd14cadee2af8684b3882b95d9d8",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "17",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "c50e49bc87115c0bd304d94667269bec",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "18",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b07c06c7bea6fefde1d76530a90009af",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "19",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "5bc5b0e9307fb1305377e82b0106e49e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "539c237fbbe9f7f566ffafa4ebd91140",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "11",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "028bb6e9914bd6d297a5d866e168b780",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "1",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "3cbe286fb467e0e5b19d58f8fc5f0695",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "2",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "6fac5b9c4978f794026dd3ac552cd9e3",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "7",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "1e757e0db7414eba63ba576023d7495b",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "8",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "a7c92bb5ede0c6105ac35f83690f4f7a",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "9",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "886e740146e71a4a6d5088abbc57ccc4",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "10",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "31b14664ede13a2baf6a380a9d4862d8",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "15",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ea0e3cc0f50e2e479c4b7b803c80dd5f",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "16",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "0122bb1cc682a6238970b34947ed75ae",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "17",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "b1db49a16132020af7329781d965181d",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "20",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "ef091802c00b92c59f92fe1e9a791464",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "12",
+        "place": "21",
+        "price": "2100.0"
+    },
+    {
+        "ticket_id": "bdb75b717bd54b5d89d2fa2735bff072",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "13",
+        "place": "20",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "16430ea9f26c55314f30e9841b8ddab0",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "1",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "e71046d17dd2477829763da0f682eee8",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "2",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "07c4fd0bed1945cda0f081973f1f30f3",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "3",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "65276e04684dfc45fe2e287f26b726a3",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "14",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "e456081f7ab717f327c2776207876f8c",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "17",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "7f31c1800d55f7333d3dba6c2bf647d1",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "14",
+        "place": "18",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "af6ca3afc6b8c9ed8d105bbec123c808",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "7",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "99195d5cbb1489fd60aba5228bf0d29a",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "8",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "e0021e24dd891a019826f9d7b69651b2",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "9",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "f6c1dea76c2e16079184a9c4fdd385f8",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "12",
+        "price": "1900.0"
+    },
+    {
+        "ticket_id": "e20d6afc94b38b38546f93c9204b2a7e",
+        "site": 3,
+        "section": "������",
+        "section_part": "",
+        "section_number": "",
+        "row": "15",
+        "place": "13",
+        "price": "1900.0"
+    }
+]

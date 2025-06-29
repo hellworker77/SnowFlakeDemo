@@ -10,7 +10,7 @@ builder
     .useCanvas(canvas)
     .useDpr()
     .useEventBus()
-    .useDirectRendering(2)
+    .useOptimalRendering()
     .useMetrics(metrics)
     .useZoomBtn(zoomInButton, zoomOutButton)
     .useWebLoader()

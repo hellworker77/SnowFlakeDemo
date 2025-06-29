@@ -69,15 +69,6 @@ body {
         height: 100vw;
     }
 }
-
-.zoomInSymbol{
-    background: transparent url("https://yastatic.net/s3/afisha-tickets-frontend/static/front/404/404.1/dist/assets/../_/0b04eefd7b516d66c4e5e16408d53940.svg") center center no-repeat;
-}
-
-.zoomOutSymbol{
-    background: transparent url("https://yastatic.net/s3/afisha-tickets-frontend/static/front/404/404.1/dist/assets/../_/84b0399667a2338e94c9f760ed89e023.svg") center center no-repeat;
-}
-
 .zoomInSymbol,
 .zoomOutSymbol {
     width: 18px;

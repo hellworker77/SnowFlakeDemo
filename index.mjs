@@ -1,15 +1,18 @@
-import {SnowFlakeBuilder} from "./bundle.obf.js"
+import { SnowFlakeBuilder } from "./bundle.obf.js";
 
 const canvas = document.getElementById("canvas");
 const metrics = document.getElementById("debugOverlay");
+const zoomInButton = document.getElementById("zoomIn");
+const zoomOutButton = document.getElementById("zoomOut");
 const builder = new SnowFlakeBuilder()
 
 builder
     .useCanvas(canvas)
     .useDpr()
     .useEventBus()
-    .useOptimalRendering()
+    .useDirectRendering(2)
     .useMetrics(metrics)
+    .useZoomBtn(zoomInButton, zoomOutButton)
     .useWebLoader()
     .setUrlSchemaJson("schema/large.json")
     .setUrlTicketsJson("tickets/large.json");

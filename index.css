@@ -14,12 +14,14 @@ body {
     height: 100%;
     width: 100%;
     display: flex;
+    flex-direction: column;
     position: relative;
 }
 
 #canvas {
     width: 100%;
     height: 100%;
+    display: block;
 }
 
 #consoleOverlay {
@@ -47,5 +49,65 @@ body {
     white-space: pre;
     line-height: 1.5;
     user-select: none;
+    pointer-events: none;
+}
+
+#zoomSection{
+    position: absolute;
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+    bottom: 16px;
+    right: 16px;
+    left: auto;
+    z-index: 1;
+}
+
+@media (max-width: 768px) {
+    #app {
+        width: 100vw;
+        height: 100vw;
+    }
+}
+
+.zoomInSymbol{
+    background: transparent url("https://yastatic.net/s3/afisha-tickets-frontend/static/front/404/404.1/dist/assets/../_/0b04eefd7b516d66c4e5e16408d53940.svg") center center no-repeat;
+}
+
+.zoomOutSymbol{
+    background: transparent url("https://yastatic.net/s3/afisha-tickets-frontend/static/front/404/404.1/dist/assets/../_/84b0399667a2338e94c9f760ed89e023.svg") center center no-repeat;
+}
+
+.zoomInSymbol,
+.zoomOutSymbol {
+    width: 18px;
+    aspect-ratio: 1;
+}
+
+.zoomBtn{
+    border: none;
+    display: flex;
+    padding: 0;
+    min-width: 48px;
+    height: 48px;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+    background: white;
+    cursor: pointer;
+    transition: background 0.2s;
+    border-radius: 24px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 3px 10px;
+    outline: none;
+}
+
+.zoomBtn:disabled {
+    filter: grayscale(100%);
+    cursor: default;
+    background: #f0f0f0;
+    box-shadow: none;
     pointer-events: none;
 }

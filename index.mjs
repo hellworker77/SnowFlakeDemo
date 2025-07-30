@@ -4,7 +4,10 @@ const canvas = document.getElementById("canvas");
 const metrics = document.getElementById("debugOverlay");
 const zoomInButton = document.getElementById("zoomIn");
 const zoomOutButton = document.getElementById("zoomOut");
+
 const builder = new SnowFlakeBuilder()
+
+let instance;
 
 builder
     .useCanvas(canvas)
@@ -14,10 +17,10 @@ builder
     .useMetrics(metrics)
     .useZoomBtn(zoomInButton, zoomOutButton)
     .useWebLoader()
-    .setUrlSchemaJson("schema/large.json")
-    .setUrlTicketsJson("tickets/large.json");
+    .setUrlSchemaSvg("assets/schema.svg")
+    .setUrlSchemaJson("assets/schema.json")
+    .setUrlTicketsJson("assets/tickets.json");
 
-let instance;
 
 builder.build()
     .then(arenite => {
